@@ -1,0 +1,20 @@
+---
+title: "Creating graphs in R with `ggplot2`"
+author: "Precious Amuja"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Plots with ggplot2
+
+We are going to make plots in R and it's going to be amazing.
+
+
+
+
+
